@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Stream WOOT
+http://woot.gangloff.eu:5900
+#EXTINF:-1,Stream MAP
+http://map.gangloff.eu:5900
+#EXTINF:-1,Local
+http://192.168.2.1:5900
